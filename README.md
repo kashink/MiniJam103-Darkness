@@ -1,4 +1,4 @@
-Game for Mini Jam 103 -> Darkness [Checkout] (https://itch.io/jam/mini-jam-103-darkness)
+Game for Mini Jam 103 -> Darkness (https://itch.io/jam/mini-jam-103-darkness)
 
 Numbness
 
