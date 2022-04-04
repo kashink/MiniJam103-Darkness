@@ -4,17 +4,18 @@ Numbness
 
 When I was younger I always had a recurring dream where I lived in a maze because it seemed like a better life always having somewhere to hide where I could run and it would be much harder to be found and then I started creating my own doors in this maze, it was my labyrinth, it was dangerous and I thought I was in control of it but that had a cost.
 
-Older, someone told me that the labyrinth represents life's journey, its obstacles, making the right choices, until we meet at the center... at home, a place to belong... but the journey there can make you feel a numbness.
+Older, someone told me that the labyrinth represents life's journey, its obstacles, making the right choices, until we meet at the center... at home, a place to belong... but the journey there can make you feel numbness.
 
 Gameplay :
 
-Mouse and "WASD" control the movement of the character. 
+Mouse and "WASD" control the movement of the character.
 "Shift" to run.
 "Left Click" to shoot.
 "E" to interact.
 "Esc" exits the game.
 Explore to find fragments of memory.
 Find your way out!
+
 Credits:
 
 Music/ SFX :  Edpin
